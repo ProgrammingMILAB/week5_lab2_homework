@@ -1,2 +1,6 @@
 qwqwq
+<<<<<<< HEAD
 cccccccccccccmmmmmeeee
+=======
+cccccccccccccmmmmmq
+>>>>>>> new22
