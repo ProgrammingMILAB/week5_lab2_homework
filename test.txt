@@ -1,6 +1,2 @@
 qwqwq
-<<<<<<< HEAD
-
-=======
-aa
->>>>>>> jylocal
+bbbb
