@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-main -> qwqwq
-=======
-qwqwq -> goooood
->>>>>>> jylocal
+qwqwq
+
